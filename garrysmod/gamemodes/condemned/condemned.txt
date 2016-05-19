@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"NS: Condemned"
+	"author"	"Dremek"
+	"menusystem" "1"
+}
