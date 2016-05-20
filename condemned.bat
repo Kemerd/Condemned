@@ -1,1 +1,1 @@
-srcds.exe -console -game garrysmod -condebug +map rp_necro_junction +gamemode condemned +maxplayers 20 +host_workshop_collection 463602082 -authkey 366E17E0CB45A6B81488F3F304176A11
+srcds.exe -console -game garrysmod -condebug +map rp_necro_junction +gamemode condemned +maxplayers 20 +host_workshop_collection 463602082
